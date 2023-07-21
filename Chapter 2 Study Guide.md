@@ -27,7 +27,8 @@
 - Radioactive isotopes have many uses in research and medicine:
 	- Used to determine the fate of atoms in living organism
 	- They are used in PET (positron emission tomography) scans to diagnose heat disorders and some cancers
-![[Pasted image 20230719142317.png]]
+![Pasted image 20230719142317](https://github.com/BatChest/Bio003/assets/90287766/300435b7-3a97-4242-993b-5da8827be67b)
+
 
 # 4) Explain how the number of electrons determines the chemical properties of an atom.
 - The number of electrons in the outermost shell determines the chemical properties of an atom
@@ -49,14 +50,16 @@
 	- The chemical properties of an atom are closely related to its ability to form compounds, the types of bonds it can form (covalent, ionic), and its reactivity with other elements
 	- Example, elements in the same group of the periodic table tend to have similar chemical properties due to the same number of valence electrons.
 Example: 
-![[Pasted image 20230719142601.png]]
+![Pasted image 20230719142601](https://github.com/BatChest/Bio003/assets/90287766/92f8a71d-e7b0-45ed-aec7-78d96ac7bf6e)
+
 
 # 5) Distinguish between ionic, covalent, and hydrogen chemical bonds.
 - **Ionic Bods:**
 	- When atom loses or gains electrons, becomes electrically charged
 	- Changed atoms are called ions
 	- Ionic Bonds are formed between oppositely charged ions(transfer of electron from one atom to another)
-![[Pasted image 20230719142818.png]]
+![Pasted image 20230719142818](https://github.com/BatChest/Bio003/assets/90287766/aeeef3e1-3251-46b4-938d-b33e986a1387)
+
 - **Covalent Bonds:**
 	- Forms when two atoms share one or more pairs of outer shells electrons
 	- Strongest of the various bonds
@@ -117,7 +120,8 @@ Example:
 	- Accepts H(+) ions when they are in excess and 
 	- Donate H(+) ions when they are depleted. +
 	- H(+) + HCO$_3$$^-$  <-> H$_2$CO$_3$ <-> H$_2$O + CO$_2$ 
-	- ![[Pasted image 20230720114403.png]]
+	- ![Pasted image 20230720114403](https://github.com/BatChest/Bio003/assets/90287766/2685c7c7-1de8-41d6-9fcb-0723fecafe5d)
+
 - **1-point change in pH**:
 	- 1-point change in pH represents a tenfold difference in hydrogen ion concentration; moving from pH 6 to pH 5 means ten times more hydrogen ions
 	- while moving from pH 6 to pH 7 means ten times fewer hydrogen ions
