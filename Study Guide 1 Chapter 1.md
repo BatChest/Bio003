@@ -35,6 +35,8 @@
 
 # 4) List and give an example of each level of biological organization
 ![[Pasted image 20230719125956.png|720]]
+![forsenE](https://github.com/BatChest/Bio003/assets/90287766/fe98d335-b6b6-4e50-93af-0ccbe0a35625)
+
 
 # 5) Compare discovery science(Exploaration) and hypothesis-driven science
 - Discovery Science describes life at its many levels from ecosystems down to cells and molecules
