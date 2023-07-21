@@ -34,7 +34,8 @@
 
 
 # 4) List and give an example of each level of biological organization
-![[Pasted image 20230719125956.png|720]]
+![Pasted image 20230719125956](https://github.com/BatChest/Bio003/assets/90287766/b0a03c7f-e6fd-4c26-b75b-c9e7d113235e)
+
 
 
 
