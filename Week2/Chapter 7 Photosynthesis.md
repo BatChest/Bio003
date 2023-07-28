@@ -1,6 +1,7 @@
 # 1) Write the overall equation for photosynthesis (reactants and products).
 ## Overall Equation
-![[Pasted image 20230728104940.png]]
+![Pasted image 20230728104940](https://github.com/BatChest/Bio003/assets/90287766/0956fcb3-c6fe-4ed4-896a-8076abad9c35)
+
 - carbon dioxide (CO2) and water (H2O) are the reactants that, in the presence of light energy, undergo a series of complex biochemical reactions within the chloroplasts of plant cells. 
 - The end products are glucose (C6H12O6), which stores the chemical energy, and oxygen (O2), which is released into the atmosphere as a byproduct of photosynthesis
 
