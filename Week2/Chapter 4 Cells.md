@@ -11,7 +11,8 @@
 	- Have plasma Membrane
 	- No membrane-bound organelles
 	- Have ribosomes
-![[Pasted image 20230726135415.png]]
+![Pasted image 20230726135415](https://github.com/BatChest/Bio003/assets/90287766/d62af63c-da84-45ed-a0ad-c81106c7aceb)
+
 
 # 2) Compare the structure of plant cells and animal cells
 ## Plant Cells:
