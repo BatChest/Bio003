@@ -1,7 +1,8 @@
 # 1) Write the overall equation for cellular respiration (reactants and products).
 ## Overall Equation:
 - **C6H12O6 (glucose) + 6 O2 (oxygen) → 6 CO2 (carbon dioxide) + 6 H2O (water) + approx. 32 ATP**
-![[Pasted image 20230728102741.png]]
+![Pasted image 20230728102741](https://github.com/BatChest/Bio003/assets/90287766/50a45f52-449b-433a-849a-64d96a36f049)
+
 
 # 2) Compare the reactants, products, location in the cell, and energy yield of the stages of cellular respiration (glycolysis, Acetyl-CoA production, citric acid cycle and electron transport chain)
 ## **Glycolysis:**
