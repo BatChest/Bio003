@@ -20,7 +20,8 @@
 - Mechanical Work: ATP is used to power muscle contraction and other cellular movements
 - Transport Work: ATP provides energy to transport molecules and ions across cell membranes against their concentration gradients
 - Chemical Work: ATP energizes metabolic reactions by providing the necessary activation energy for chemical processes
-![[Pasted image 20230727121401.png]]
+![Pasted image 20230727121401](https://github.com/BatChest/Bio003/assets/90287766/4cdc2188-0e9e-4791-8f2f-9c93a92a3ae1)
+
 
 # 3) Explain how enzymes are able to speed up specific chemical reactions
 - They accomplish this by lowering the activation energy required for the reaction to proceed, making it easier and faster for the reaction to occur
